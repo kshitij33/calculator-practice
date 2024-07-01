@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  background-color: aqua;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.b1 {
+  text-align: center;
+}
+
+.b2 {
+  display: inline-block;
+  text-align: left;
+  padding: 20px;
+  border: 1px solid #000000;
+  background-color: blueviolet;
+  border-radius: 5px;
+}
